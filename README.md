@@ -1,5 +1,8 @@
 # PhotoConcept
 Real simple example of responsive HTML page.
+
+Resources used:
+
 HTML5
 CSS3 (Bootstrap 3)
 
